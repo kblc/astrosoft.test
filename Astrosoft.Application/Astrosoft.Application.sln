@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astrosoft.Application", "As
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astrosoft.DataContracts", "Astrosoft.DataContracts\Astrosoft.DataContracts.csproj", "{9E6EB9AF-04E8-4A4E-8FFE-523C26BF6271}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astrosoft.FakeSource", "Astrosoft.FakeSource\Astrosoft.FakeSource.csproj", "{8C1D0D08-5BA2-449F-A4B4-653E9F338F1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9E6EB9AF-04E8-4A4E-8FFE-523C26BF6271}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E6EB9AF-04E8-4A4E-8FFE-523C26BF6271}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E6EB9AF-04E8-4A4E-8FFE-523C26BF6271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C1D0D08-5BA2-449F-A4B4-653E9F338F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C1D0D08-5BA2-449F-A4B4-653E9F338F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C1D0D08-5BA2-449F-A4B4-653E9F338F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C1D0D08-5BA2-449F-A4B4-653E9F338F1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
